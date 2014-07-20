@@ -1,0 +1,13 @@
+{
+  "name"         : "gfycat-scrape",
+  "version"      : "0.0.1",
+  "description"  : "Scrape le web.",
+  "main"         : "server.js",
+  "author"       : "Marceux",
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest",
+    "q"          : "1.0.x"
+  }
+}

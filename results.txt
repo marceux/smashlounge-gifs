@@ -1,0 +1,617 @@
+1,WelldocumentedShoddyBufeo,claw1
+1,HardThreadbareHarpseal,claw2
+1,WildCheapAntarcticgiantpetrel,ftilt
+1,JitteryHeavenlyAmericanriverotter,ftilt
+1,ElasticMedicalAmazonparrot,ftilt
+1,HardCrazyIndianjackal,utilt
+1,VagueDamagedHomalocephale,usmash
+2,WarlikeImperfectAsiaticgreaterfreshwaterclam,jab3
+2,SingleOddHare,fair
+3,ShorttermAppropriateBlackrussianterrier,eJetn8g
+3,BaggyNearDragonfly,KmSOQhn
+3,ClumsyTatteredBee,ncS4eEs
+3,SpotlessRewardingJapanesebeetle,1G83Ccu
+3,AptBetterDalmatian,xi04bMt
+3,ThinIckyGrackle,OIwxQq5
+3,ComplexRevolvingBantamrooster,o6PTT3X
+3,ObedientAnimatedGuillemot,Z17JKDS
+4,ClassicRealAfricanclawedfrog,Punch 1
+4,BetterLiquidAfricanaugurbuzzard,Punch 2
+4,RigidExcellentAdamsstaghornedbeetle,Kick
+4,CreativeAshamedHoiho,F Tilt
+4,RepentantCriminalGardensnake,F Tilt Down
+4,ThirdBiodegradableIvorybackedwoodswallow,F Tilt Up
+4,ComplexFrequentArcticseal,D Tilt
+4,LightImpureHoneycreeper,F-Air
+5,WastefulEducatedKilldeer,Jab
+5,DeliriousSleepyDamselfly,Jab2
+5,RealSeveralCommabutterfly,JabRapid
+5,MasculineJollyGlobefish,DashAttack
+5,UnluckyPhysicalAruanas,ForwardTilt
+5,CompetentGenuineKitty,ForwardTiltUp
+5,FabulousGracefulInexpectatumpleco,UpTilt
+5,SardonicUnevenIndigowingedparrot,UpAirAnimtion
+5,OrderlyNecessaryHorsemouse,DownAir
+5,NaturalEsteemedIndianhare,NeutralB
+6,YearlyEdibleHarpseal,Jab
+6,FirmForsakenAngwantibo,Jab 2
+6,SpotlessSameArmadillo,Rapid Jab
+6,SkinnyGrimyDeviltasmanian,F-tilt up
+6,PaltryCoarseFowl,F-tilt down
+6,ZigzagSlipperyKoodoo,F-tilt
+6,AllTeemingBarnowl,D-tilt
+6,MenacingEquatorialHydra,U-tilt
+6,BackDistortedAoudad,F-Smash
+6,PleasantAdventurousKissingbug,Up Smash
+6,AggressiveUnluckyDinosaur,N-air
+6,QualifiedCostlyIaerismetalmark,Up-air
+6,FlatAdorableHorsechestnutleafminer,D-Smash
+6,LoathsomeBeneficialAmericanbittern,Roll back
+7,AthleticCapitalChuckwalla,Jab
+7,DapperDeliriousCleanerwrasse,Forward Tilt Up
+7,HiddenBigGangesdolphin,Forward Tilt
+7,DisguisedPointedHamster,Forward Tilt Down
+7,VastWarlikeAdmiralbutterfly,Up Tilt
+7,AgitatedCrazyCub,Down Tilt
+7,AppropriateCleanJellyfish,Forward Smash Up
+7,LazyIllAsianlion,Back Air
+7,DismalDrearyBobwhite,Down Air
+1,HairyGiganticFrigatebird,dtilt
+8,PoshLameHogget,Jab
+9,FineUnknownAffenpinscher,Jab 1
+9,SandyMeekEuropeanfiresalamander,Jab 2
+9,ImpossibleDarkAntelope,F Tilt Mid
+9,GenuineWaterloggedIridescentshark,F Tilt High
+9,RewardingDisguisedAztecant,F Tilt Low
+9,SelfreliantFakeCero,D Tilt
+9,PaleWarmArmyant,U Tilt
+9,ShortLazyHammerheadshark,B-Air
+9,WideeyedAgonizingGemsbuck,Rest
+10,QuarrelsomeOffbeatDormouse,Stub Punch 1
+10,DenseLightheartedHypacrosaurus,Stub Punch 2
+10,FreshKaleidoscopicAnole,Vulcan Jab
+11,NeglectedWiltedAzurevasesponge,Slash 1
+11,ChubbyMassiveBug,F Tilt
+11,CavernousTornFlamingo,D Tilt
+11,NaturalColossalAntipodesgreenparakeet,N-Air
+12,EnragedBasicJaguarundi,Punch 1
+12,IllustriousReliableAmbushbug,Punch 2
+12,AmbitiousPitifulCockerspaniel,F Tilt Up
+12,HatefulTestyHog,Butt
+12,EvergreenFragrantCorydorascatfish,F Tilt
+12,AnotherDesertedJabiru,F Tilt Down
+12,SerpentineSecondHochstettersfrog,N-Air
+13,MistyHilariousArrowana,Punch 1
+13,MenacingClumsyCockerspaniel,Punch 2
+13,SecretEssentialHanumanmonkey,Kick
+13,UnconsciousTediousHagfish,F Tilt Up
+13,PeriodicTanChafer,F Tilt
+13,FaithfulMeatyCrustacean,F Tilt Down
+13,DependentInsecureBug,D Tilt
+13,RepentantPerfumedBobwhite,U Tilt
+13,ShallowNecessaryChinesecrocodilelizard,F Smash Up
+13,BoringGoldenGrosbeak,U Smash
+13,UnconsciousElectricBlacklemur,Cape
+14,ValuableBlackChuckwalla,Jab
+14,DamagedBlondFirecrest,Jab 2
+14,BowedAmbitiousGuineapig,F-Tilt
+14,LikablePlayfulEft,D-Tilt
+14,CapitalIncompatibleAlaskankleekai,U-Tilt
+14,GrizzledChillyFlyinglemur,Dash Attack
+14,WelcomeTatteredBarasingha,F-Smash
+14,TepidAjarBaiji,Up-Smash
+14,FearfulCorruptHoki,D-Smash
+14,SpitefulLivelyIntermediateegret,N-air
+14,FreshThinAntbear,F-air
+14,BarrenShrillFalcon,Counter
+14,ImportantTintedApatosaur,Sword Dance 3, Down
+14,HeartyFlamboyantGuillemot,Shield Breaker
+15,FaithfulDisfiguredFanworms,Jab 1
+15,PopularAliveGypsymoth,Rapid Jab
+15,BlondLightheartedFugu,Forward Tilt
+15,GranularTeemingAnteater,Down Tilt
+15,SatisfiedDismalGallinule,Back Air
+16,AngelicFlashyAfricanparadiseflycatcher,Neutral Air
+16,JaggedAliveJavalina,Forward Air
+17,SharpCarelessAfricanpiedkingfisher,Jab 1
+17,PortlySlightAmericanavocet,Forward Tilt Up
+17,SlimySaneGartersnake,Forward Smash
+17,MeaslySecretEyra,Jab 3
+18,BoldUntriedBlackwidowspider,F Tilt
+18,FarawayMammothCockerspaniel,D smash
+19,ZestyOrangeFattaileddunnart,U Tilt
+19,ExemplaryDecimalFawn,Ground Dodge
+20,SatisfiedLameEmeraldtreeskink,F Tilt High
+20,BriefWearyBaleenwhale,Headbutt
+20,ExemplaryGiantDesertpupfish,F Tilt Low
+20,SoulfulBarrenGonolek,U Tilt
+20,IlliterateWhiteHogget,D Tilt
+20,EntireVictoriousHyrax,D Smash
+20,MemorableFrayedDunlin,Thunder
+21,ClassicMagnificentKakapo,Dash Attack
+21,GargantuanGleamingHairstreakbutterfly,N-Air
+21,AngryLavishFlyingfish,Spot Dodge
+22,DaringVacantBluetonguelizard,Punch
+22,WealthyDistantArgentineruddyduck,B-Air
+22,FlamboyantGiganticHuia,Screw Attack
+23,ElegantVelvetyGreatargus,Jab
+23,LameGlaringAmericanrobin,Jab Rapid
+23,DeliciousCoordinatedGodwit,Down Tilt
+23,ImpureHealthyCod,Jab 2
+23,LavishTanDotterel,Forward Tilt
+23,HappyOrneryHanumanmonkey,Dash Attack
+23,FlippantRequiredAfricanpiedkingfisher,Neutral Aerial
+23,SecondBigheartedCrocodile,Forward Air
+23,HiddenFittingGrebe,Grab
+23,SameFlippantAbyssiniangroundhornbill,Up B
+24,ShamefulNecessaryDobermanpinscher,Kick 1
+24,SolidShowyCoqui,U Tilt
+24,CorruptAmbitiousAiredaleterrier,F Tilt
+25,FittingZanyHagfish,Jab 2
+25,GrandInferiorHammerheadshark,Rapid Jab End
+25,DishonestVapidCicada,Up Air
+25,SingleImmediateGermanshepherd,Spin Attack
+1,OilyWelloffAmericancrow,dashattack
+13,NextDimAmberpenshell,Dash attack
+6,UnequaledHappygoluckyAsianporcupine,D-air
+6,EasygoingGraciousHorse,Blaster
+1,YearlyHonorableArchaeocete,uair
+6,RemorsefulGreatGallowaycow,Dash attack
+1,LinearNervousApatosaur,nair
+6,KaleidoscopicShabbyDalmatian,F-air
+1,EverlastingGenerousAustrianpinscher,fsmash
+1,DistantShadyCopperhead,dair
+6,ZealousLiquidDuck,B-air
+6,EntireMajorAtlasmoth,Blaster Air
+6,FamiliarBoilingDarklingbeetle,Air Dodge
+6,DeepBlondAngelfish,Dash grab
+8,BlandVastIndianabat,Roll Back
+8,CalculatingSlightBallpython,D-Tilt
+1,CluelessNastyBeardeddragon,rungrab
+1,KindheartedUnderstatedAtlasmoth,spotdodge
+6,HalfFlamboyantElver,Fox Illusion Air
+6,GrayHarmfulGallowaycow,Spot Dodge
+8,FrankHeartyGrunion,Dash Grab
+1,WarlikeBowedHerald,dsmash
+8,YellowFavoriteBlacknorwegianelkhound,Dash Attack
+1,UnderstatedTenseHare,bair
+6,PrestigiousNextGuineapig,Roll forward
+6,VibrantSevereKarakul,Grab
+21,HarmoniousWildBoutu,F-Air
+1,ElaborateMaleAustraliankestrel,downbfromground
+6,DampSeparateDamselfly,Shine
+21,SpiffyEnlightenedIchneumonfly,D-Air
+1,SmoggyBriefHyracotherium,airupb
+6,JaggedCreepyHuia,Firefox
+8,ChiefPlainBrontosaurus,U-Tilt
+1,IlliterateMadDassierat,grab
+8,KindFailingCockatiel,Jab 2
+8,WholeShockingDolphin,F-Tilt Down
+8,WellmadeDifferentFluke,Blizzard
+1,DangerousPessimisticAmericanredsquirrel,groundupb
+8,SpeedyTenseGodwit,F-Smash
+8,AridQuestionableCaecilian,N-Air
+8,EagerUnsteadyGoral,D-Smash
+1,CourteousWarmFairybluebird,downbfromair
+8,BadBossyBass,Up Smash
+8,EsteemedFatIndusriverdolphin,B-Air
+8,VerifiableShrillAustralianshelduck,Ice Shot
+8,WatchfulAntiqueIchneumonfly,Roll Forward
+22,RashFantasticGecko,D-Air
+1,ValidHatefulIraniangroundjay,sideb
+16,FeminineThoseDragonfly,Oil Panic
+16,ExcitableShimmeringCoelacanth,Oil Panic Toss
+17,AssuredAmazingAlpinegoat,Jab 2
+16,CraftySmoothClingfish,Fire
+17,RawAggressiveCuscus,Forward Tilt Down
+17,VigorousVioletCub,Up Tilt
+8,TallShortGalapagoshawk,F-air
+21,OffensiveViciousCob,D Tilt
+1,OddTiredIvorybackedwoodswallow,fair
+18,GentleImpartialFoal,Running grab
+18,InformalBrightBantamrooster,D-Air
+18,GrizzledCooperativeGemsbok,B-Air
+18,DishonestGranularAlpinegoat,F-Air
+18,DapperOrdinaryBlackbear,Veggie Throw Ground
+8,LightheartedAbsoluteAnemone,F-Tilt Up
+21,ImperturbablePlushGhostshrimp,U Smash
+21,GleamingTightGuppy,U Tilt
+18,LittlePinkEmperorshrimp,Dash attack
+18,QuarrelsomeAggressiveIslandcanary,F Smash Golf Club
+18,SpecificShorttermBurro,F Smash Racket
+18,MilkyCautiousElectriceel,U Tilt
+18,ResponsibleImaginaryGoa,F Smash Frying Pan
+18,VictoriousHideousFlyingfish,U smash
+21,ScratchyGratefulEagle,F Tilt
+21,LivelyGrimyIndri,B-Air
+21,ScarceRichKingfisher,D Smash
+1,FarflungDeliriousChipmunk,airdodge
+15,GoodBlushingFrigatebird,Dash Attack
+15,DifficultWindingIrishterrier,Down Smash
+15,NeatOrganicBichonfrise,Up Smash
+15,GlossySilkyFattaileddunnart,Neutral Air
+15,ImpartialCooperativeBudgie,Forward Air
+15,ShadowyFavorableDogwoodtwigborer,Forward Smash
+8,HatefulHomelyDolphin,Squall Hammer Side B Both
+8,DisloyalDistortedEasternglasslizard,D-air
+21,VioletClosedKid,Counter
+21,GlamorousBetterJenny,U-Air
+2,ThinSparklingAmazontreeboa,forwardtiltup
+7,TintedWelcomeBlueshark,Down Smash
+8,DesertedAcidicFattaileddunnart,Spot Dodge
+21,PertinentPinkIndianabat,Jab
+8,FalseMemorableGrackle,Up Air
+7,EnviousBogusDodo,Warlock Punch
+21,GlitteringGaseousIbadanmalimbe,F Smash
+8,TautLoneGrayfox,Belay Up B
+8,IdioticIdolizedErin,Air Dodge
+11,TangibleAccurateCur,Dash attack
+21,YoungLinearAmazondolphin,Flare Blade
+21,AffectionateSeparateEarthworm,Blazer
+2,MediumPoliticalHarrier,forwardtiltd
+10,FalseWigglyElephant,Hammer Air
+1,DamagedFlippantHanumanmonkey,roll
+2,FastPalatableChanticleer,jab2
+4,WelllitWellmadeCowbird,U-Air
+10,UglyUnhappyAsianpiedstarling,Ness
+2,EmbellishedLightheartedDormouse,uptilt
+10,ScratchyGreatIbis,Luigi
+10,ScratchyDirtyGoldfinch,Marth
+10,EssentialThankfulBluebottlejellyfish,Mewtwo
+10,InexperiencedHandmadeAnchovy,Peach
+11,FineCrispCoot,B-Air
+10,LiquidWatchfulFruitbat,Pichu Air
+24,AngelicGrimyAfricanaugurbuzzard,D Tilt
+10,NeatShimmeringGreyhounddog,Sheik
+3,DearestBowedArawana,VGViLea
+10,VibrantExhaustedCricket,Roy
+3,UnfitTepidBudgie,QcwXT4z
+10,TotalLikableHuemul,Pikachu Air
+3,DimwittedCautiousEgg,47bPbNp
+11,AmplePeskyBluebottlejellyfish,U-Air
+2,WeightyLastingDarwinsfox,airdodge
+11,AptWarlikeCockerspaniel,D-Air
+11,OrneryBleakBongo,F-Air
+11,UnselfishBeautifulHuman,F Smash 2
+11,UncommonWhirlwindChimpanzee,Hookshot
+11,SparseForcefulDromedary,U Smash
+11,SpanishWealthyAsianconstablebutterfly,Bomb
+11,UglyBlankGuppy,Running grab
+11,BogusSandyIrishterrier,Spin Slash
+11,EnlightenedAridDunnart,Arrow
+11,JoyfulGloriousFlea,Grab
+11,VagueUglyDartfrog,Spin Slash Air
+12,MeatyElatedHalcyon,D Tilt
+2,PleasedImpracticalAlbertosaurus,upsmash
+22,MealyGrandAmericansaddlebred,F Tilt High
+11,FortunateAnguishedHoki,Slash 2
+10,VagueDependentAcornweevil,Samus
+10,ShinyElectricGrub,Yoshi
+12,AdorableInfiniteEstuarinecrocodile,Fireball
+3,MetallicNewHarrierhawk,Q6I52EX
+12,CleanSecondhandGibbon,Super Jump Punch
+4,LightDishonestCat,Dash attack
+12,ComplicatedEquatorialInsect,Luigi Tornado Air
+4,WarpedShrillCottonmouth,F Smash Down
+12,DazzlingVigorousGilamonster,Green Missile Misfire
+3,EvilCompetentHornedtoad,jMRwH3O
+3,ElegantUncomfortableAuklet,g5xXz8l
+3,PassionateBareBluetickcoonhound,6dlCIQ9
+3,BabyishShallowFallowdeer,zWILcW3
+3,OfficialForsakenJackrabbit,4N3E3F8
+3,GrotesqueMiniatureFulmar,WIeofWU
+4,FragrantNastyBluegill,D Smash
+4,UntidyAjarJuliabutterfly,F Smash Up
+12,ShinyEarlyHammerkop,Taunt
+4,FarawayGenerousIndigowingedparrot,U Smash
+11,RecentElaborateBellsnake,Stab
+3,ClosedAdventurousAlbacoretuna,sy4uPaJ
+4,DistantSociableAmericankestrel,N-Air
+11,EveryUnawareIvorybilledwoodpecker,D Smash
+4,ZestyBrightAfricanhornbill,B-Air
+12,BruisedFlakyCaimanlizard,U Tilt
+11,SpicyFirsthandFallowdeer,U Tilt
+12,MediumHandmadeDarwinsfox,Dash attack
+12,InfamousBlindInvisiblerail,F Smash Up
+11,QuarrelsomeCanineAmericanindianhorse,Illusion stab minimum repetitions
+4,KindheartedDisfiguredGenet,D-Air
+12,DenseBriefBarnacle,U Smash
+4,ScornfulRevolvingArabianwildcat,Grab
+12,WeirdShockingChimneyswift,F Smash Down
+4,GoodnaturedDarkFerret,Running grab
+12,DefensiveGroundedBarb,U-Air
+4,WebbedWarlikeHarborporpoise,Dr. Tornado
+12,OptimalHardtofindIguanodon,D Smash
+12,WideDiscreteAcornbarnacle,F-Air
+4,JoyfulPlayfulAtlanticsharpnosepuffer,Super Jump Punch
+12,ImpartialUnfoldedBarb,Upward Getup Attack
+4,TidyGracefulAnole,Super Sheet
+12,GlitteringEmbellishedArieltoucan,D-Air
+4,RaggedWarmBedbug,Air dodge
+12,BruisedSerpentineBudgie,B-Air
+4,InfantileShyHorsechestnutleafminer,Forward Roll
+16,FrankFairAmurstarfish,Down Air
+12,CheeryEvilCheetah,Downward Getup Attack
+4,ZestySolidCaudata,Ground dodge
+13,ForcefulTidyAlligator,B-Air
+5,LeanBeneficialAssassinbug,ForwardTiltDown
+13,ShimmeringGivingAmericanbittern,D-Air
+22,PoshOblongBlackpanther,Super Missile Air
+13,HarmlessPolishedJay,F-Air
+5,GiantContentIceblueredtopzebra,BackAir
+13,AdolescentPleasingBlueandgoldmackaw,Mario Tornado
+13,LankyGraciousBufflehead,Grab
+5,OldShyBobcat,NeutralAir
+13,HilariousJubilantDeermouse,Super Jump Punch
+13,DefiniteSizzlingHind,F Smash Down
+13,WigglyClosedAustraliancattledog,Running grab
+14,GoodHandyJaguarundi,B-air
+5,RawBossyIrrawaddydolphin,DownTilt
+14,SeparatePassionateJunco,Dash Grab
+5,ForsakenPreciousBlacknorwegianelkhound,ForwardSmash
+5,EvergreenWearyAuklet,NeutralBAerial
+5,WarlikeCostlyHippopotamus,ForwardAir
+23,PersonalGiddyIcterinewarbler,Up Tilt
+14,PertinentWildAsiansmallclawedotter,Up-Air
+5,SparseOptimisticAstarte,DownSmash
+22,PepperyMediocreAardwolf,D Smash
+14,DearestEthicalIndianrhinoceros,D-air
+5,GlamorousDismalBadger,UpSmash
+24,SnarlingAdmirableDragonfly,U Smash
+19,FairComplexAcornweevil,Ledge Attack
+10,GreedyLawfulFattaileddunnart,F Tilt
+17,WelltodoFluidFrigatebird,PK Fire
+19,EvenFaithfulCuttlefish,Thunder Jolt Air
+3,ObedientScratchyGelding,Vu5XU0m
+16,KeyOptimisticGrassspider,Running Grab
+15,FirstUltimateEthiopianwolf,Back Throw
+17,DecimalLeanHairstreakbutterfly,Up facing getup attack
+15,FreeColdCanine,Up-Forward Tilt
+15,RelievedColdHamadryas,Air Dodge
+10,MajesticFavoriteCooter,D Tilt
+2,BigSociableKilldeer,downtilt
+15,FavoriteHarmoniousAngelfish,Disable
+20,GoldenBouncyConure,F Smash
+17,ImpracticalSleepyAtlanticspadefish,PK Thunder
+17,DentalPettyChickadee,Running Grab
+17,SpecificFittingHousefly,PSI Magnet
+17,SlushyPeriodicEstuarinecrocodile,PK Thunder 2
+17,SpiffyJoyousAustralianfurseal,PK Fire Hits
+17,GreenOblongErne,PK Flash
+18,WholePowerlessCranefly,D Tilt
+18,SociableOptimalAvians,Peach Bomber Ground
+18,CarelessPastelAmericanblackvulture,Peach Bomber Air
+19,NaturalBlankClumber,D Tilt
+25,PreciousGenerousGoldfish,Back Air
+18,TemptingTanAmphiuma,Parasol
+19,SpicySlipperyArchaeocete,Headbutt
+3,EqualClosedHaddock,Fbr23jp
+18,GrizzledPresentCommongonolek,Roll
+18,ValidDarkHoopoe,Ground dodge
+19,GlaringHighlevelAmericanwigeon,Headbutt Rapid
+18,AdolescentDecimalClingfish,Air Dodge
+19,ThreadbareDazzlingGrunion,F Tilt Low
+19,OrderlyImpoliteAfricanwildcat,D-Air
+10,QuerulousFluidDeinonychus,Jigglypuff
+17,UntriedSaltyGallinule,Dash Attack
+18,SlushyDefiniteAsiansmallclawedotter,Slap 2
+18,KeyWelloffAmericankestrel,U-Air
+18,SpectacularIcyAlbertosaurus,N-Air
+18,FamousTornAddax,Slap 1
+18,YearlyPaltryGalapagosalbatross,Vegetable Pull
+9,WhiteFailingAmericansaddlebred,Air Dodge
+10,GoodScholarlyCooter,Grab
+26,DismalUntimelyGoral,U Tilt
+10,ScrawnyLoneIberiannase,Mario
+17,CornyAcademicHermitcrab,Grab
+19,HatefulPitifulCirriped,F Tilt High
+17,BareInfamousHoatzin,Down facing getup attack
+19,DeficientAncientArthropods,U Smash
+16,MelodicDisfiguredBedlingtonterrier,Rapid Jab
+19,ExcellentLiquidAsianporcupine,D Smash
+21,TartGiantClumber,Double Edged Dance 4, Forward Neutral
+24,SparklingQuestionableAmericantoad,Roll Backward
+23,SomberLargeAss,Roll Back
+3,GranularNiceCottontail,vq6UwDK
+9,SinfulUltimateFanworms,Roll Forward
+10,AptMealyDesertpupfish,Link
+5,PoisedWhisperedDoe,DashGrab
+14,PessimisticIllinformedBlackcrappie,Sword Dance 3, Side Neutral
+24,DismalGorgeousEstuarinecrocodile,U-Air
+2,ApprehensiveWeeImago,fowardsmash
+22,UnpleasantCommonAfricanhornbill,U Smash
+22,BeautifulMasculineHind,Swing
+2,SardonicFlakyAustraliansilkyterrier,2a8kwnp
+20,DirtyWeeklyGoa,U-Air
+7,DependentTidyGalapagospenguin,Forward Smash Down
+20,PointedFrigidAcouchi,Grab
+21,RedThatHuemul,Double Edged Dance 4, Up
+23,ShoddyAppropriateAegeancat,Running Grab
+24,RevolvingIncredibleDalmatian,Kick 2
+23,DevotedQuerulousArgentineruddyduck,Spot Dodge
+23,IgnorantFearlessElephantbeetle,Roll Forward
+24,TintedGlassGarpike,Dash attack
+24,CoordinatedGiganticJay,F Smash
+24,HatefulIdenticalHen,D Smash
+10,YawningWelldocumentedFirefly,F Tilt Up
+19,VictoriousInstructiveFairyfly,B-Air
+20,BeneficialMistyAmurratsnake,Thunder Jolt Air
+26,PinkIllfatedIraniangroundjay,D Smash
+2,AmusedReasonableCaimanlizard,bair
+22,GleefulAnxiousHammerkop,Bomb
+22,OblongDesertedAnophelesmosquito,Super Missle Ground
+22,TotalComposedJackal,Charge Shot Full
+22,SandyNauticalEel,Homing Missile Air
+22,BlandAngelicAnaconda,Homing Missile Ground
+22,CarelessSpicyLadybug,Charge Shot Empty
+22,DisastrousFreshFerret,Screw Attack Air
+21,NaiveHeavyBallpython,Double Edged Dance 2, Up
+22,WarmheartedSelfishCoati,Air Dodge
+22,ShadyFoolhardyBasil,Roll Backward
+23,CoarseShadowyHypsilophodon,Forward Smash
+22,QuaintJovialHectorsdolphin,Dash Attack
+26,WeightySkinnyAfricanrockpython,Dins Fire
+2,SlimyNervousEyelashpitviper,neutralb
+17,GentleFirsthandGnat,Up Air
+17,TatteredBareArmyant,Forward Air
+17,DearHeavyBluefintuna,Back Air
+17,FickleQueasyCockroach,Down Air
+3,MilkyDisguisedIbis,Z889gAr
+25,GlossyYearlyDassie,Down Tilt
+24,ValuableAlarmedHammerkop,Grab
+10,BitterAmazingDuckbillcat,Bowser
+10,HollowUnrealisticBuzzard,Running grab
+10,NeglectedBriefAiredaleterrier,Final Cutter
+10,FrequentIncompleteHoopoe,Captain Falcon
+10,ScornfulDirectHookersealion,Doctor Mario
+10,DimpledLividLabradorretriever,Donkey Kong
+10,BonyDearestGuanaco,Game and Watch
+10,EllipticalDentalBovine,Ice Climbers
+14,JubilantDentalAmericancrocodile,Sword Dance 3, Up
+14,WindyIdleDikdik,Sword Dance 4, Side Neutral
+14,MindlessLikableJumpingbean,Sword Dance 4, Down
+14,TotalQuickInchworm,Roll Back
+10,InferiorPettyBeauceron,F Smash
+7,InbornOrdinaryAffenpinscher,Wizards Foot
+26,OddInexperiencedDesertpupfish,Roll Backward
+3,undefined,DsKDoiG
+14,WellmadeSnappyAfricanharrierhawk,Roll Forward
+23,WatchfulNauticalAidi,Forward B
+24,MindlessMajesticCockatiel,Yoshi Bomber Ground
+24,HiddenPlasticCrossbill,Air Dodge
+22,HauntingOccasionalCapybara,Ground Dodge
+25,SpeedyHarmoniousGalapagossealion,Forward Roll
+25,RemoteSentimentalAngwantibo,Backward Roll
+21,HeavyDishonestHairstreakbutterfly,Air Dodge
+25,IndelibleFlippantCutworm,Air Dodge
+3,NecessaryEnviousCockatoo,ejL00OP
+10,LinearDimAtlanticsharpnosepuffer,Fox
+9,ImmaterialFirstKakarikis,F Smash
+7,PhysicalDarkAplomadofalcon,Up Smash
+9,SaltySlimyBustard,U-Air
+7,MadeupNiftyFerret,Gerudo Dragon
+20,JitteryVastBighorn,Roll Forward
+9,BothSparseBandicoot,Rollout
+9,HiddenSpryFerret,N-Air
+7,OptimisticEarlyHornshark,Gerudo Dragon In Air
+9,ParallelWarmheartedIchthyostega,D-air
+7,IllinformedTanEsok,Neutral Air
+15,JaggedSinfulDiplodocus,Grab
+24,TenseMajorCatfish,D-Air
+21,MeatyBeautifulIndochinesetiger,Double Edged Dance 3, Up
+21,ConstantLastAmericanblackvulture,Double Edged Dance 2, Forward Neutral Down
+21,VelvetyZestyAzurevasesponge,Double Edged Dance 3, Forward Neutral
+21,AncientKaleidoscopicFlyingfish,Flare Blade Air
+21,YellowishFortunateEmu,Double Edged Dance 3, Down
+21,HastyGreatAmericankestrel,Double Edged Dance 4, Down
+20,KindheartedConcreteDowitcher,Dash Attack
+19,IndolentGlossyHatchetfish,Ledge Stand
+19,VapidInsistentIchthyosaurs,Skull Bash
+12,IllJovialDotterel,Luigi Tornado Grounded
+13,ThirstyCreepyCoral,D Smash
+20,PeriodicFlippantBlueandgoldmackaw,U Smash
+16,ScratchyScalyArmyworm,Up Tilt
+16,GrippingWindingHatchetfish,Up Smash
+16,CraftyGregariousBird,Forward Smash
+16,HonestValuableGlassfrog,Up Air
+16,FrighteningWideeyedAmethystsunbird,Dash Attack
+16,LimpDecimalEarthworm,Chef
+16,AgitatedNeatBluemorphobutterfly,Down Smash
+16,FelineBouncyClam,Judgement
+14,AlarmedHappyDobermanpinscher,Sword Dance 4, Up
+19,BlaringWarmheartedArthropods,Running Grab
+14,RareFrigidBasenji,Sword Dance 2, Up
+14,PaltryOrnateDouglasfirbarkbeetle,Dolphin Slash
+15,DampDistinctIcterinewarbler,Up Tilt
+14,NippyIlliterateAchillestang,Air Dodge
+14,ImmediateCharmingChipmunk,Spot-Dodge
+15,ImmenseFaithfulEyra,Down-Forward Tilt
+15,OblongOldfashionedAsiantrumpetfish,Up Air
+15,PerfectBestAmericanratsnake,Down Air
+9,PoliteLongCooter,F-Air
+15,TidyUncommonArmyant,Dash Grab
+20,CorruptWhisperedCommabutterfly,N-Air
+15,OilyDismalCuscus,Confusion
+15,RecentOnlyHornet,Forward Roll
+9,FeistyTheseAtlanticridleyturtle,Dash Grab
+10,BetterAmbitiousCornsnake,F Tilt Down
+10,DearGiantChanticleer,U Tilt
+9,ZanyOffensiveCowrie,Pound
+9,HastyUnequaledGemsbuck,Sing
+10,KeyForcefulLark,U Smash
+10,AridLimpingCassowary,D Smash
+10,ElectricGrandioseGoldeneye,Dash attack
+10,RepulsiveConcernedDaddylonglegs,B-Air
+10,SnappyGreatFairybluebird,N-Air
+9,PositiveHoarseDaddylonglegs,Dash Attack
+7,EdibleSilverFirebelliedtoad,Aerial Wizards Foot
+9,PoliticalShortHorseshoecrab,Grab
+7,CriminalInexperiencedIndochinahogdeer,Dark Dive
+8,UncommonImpressionableAmericancrayfish,Grab
+10,TerrificEllipticalIrishredandwhitesetter,D-Air
+10,RegularBlissfulArmadillo,F-Air
+10,FirmActualAfricanhornbill,Swallow
+10,DecimalExaltedIndianringneckparakeet,Stone
+10,AcrobaticCharmingAxolotl,U-Air
+10,AngryFamiliarIndusriverdolphin,Falco
+13,CreativeNastyDodobird,N-Air
+15,ImpoliteKindlyFulmar,Up Throw
+10,SatisfiedAffectionateEquine,Ganondorf
+12,DearCoarseIndianringneckparakeet,Grab
+12,ShowySpectacularAngora,Running grab
+13,ForsakenDisloyalFantail,U-Air
+23,OldfashionedWatchfulDromedary,Back Aerial
+5,CostlyGratefulHydatidtapeworm,DownB
+15,HorribleLankyFantail,Backward Roll
+23,PoorRaggedAlligatorgar,Down Aerial
+15,RedConstantAssassinbug,Spotdodge
+23,ThriftyMetallicHornedtoad,Neutral B Charged
+16,EarlyGleamingGardensnake,Forward Tilt
+26,SoreColorfulJavalina,N-Air
+19,RingedParallelGrasshopper,F-Air
+7,LastEducatedFurseal,Gerudo Dragon Hit In Air
+14,BabyishMellowIndianabat,Grab
+16,VengefulOffbeatDuiker,Back Air
+5,TangibleSelfreliantBellsnake,SideBAerial
+17,HighlevelSparklingBrahmancow,Neutral Air
+19,LastNaiveAmericanrobin,U-Air
+25,AgreeableEssentialGrouper,Tether
+24,IcyHollowAlaskajingle,B-Air
+25,VengefulPerfumedAddax,Forward Air
+25,ParallelIdealisticAnhinga,Arrow Startup
+5,OptimisticSplendidEyelashpitviper,Airdodge
+26,BasicPettyAmericanlobster,Transform
+19,OfficialFloweryKoi,Roll
+26,CircularFrenchChrysomelid,air dodge
+25,PassionateFreshHogget,Aerial Spin Attack
+22,OldElaborateAlligatorsnappingturtle,D Tilt
+2,HilariousBountifulAlligatorgar,jabrapid
+19,IckyVillainousHoatzin,Dash Attack
+20,AliveSarcasticEel,Air Dodge
+20,VerifiablePerfumedEyelashpitviper,Running Grab
+20,NiftyDismalGoldfish,Ground Dodge
+20,OldYoungKiwi,Quick Attack
+20,BraveCelebratedEchidna,Skull Bash
+20,MeaslyEdibleGemsbuck,Roll Backward
+24,NastyBasicAsp,Running grab
+26,ColossalEasygoingCrayfish,Roll Forward
+19,MeaslyPassionateButterfly,F Smash
+26,SomberTenderAvocet,Grab
+26,FluidIcyGalah,B-Air
+26,SaneMajesticIchneumonfly,F-Air
+26,HighlevelRegalLark,Running Grab
+26,ShinyUntriedBrontosaurus,D-Air
+26,ElaborateAccurateIberianmidwifetoad,Nayrus Love
+5,FlamboyantMiniatureFlea,UpB
+3,AdorableReliableBlacklemur,6sHLPkM
+2,ImpressiveQueasyBluebottlejellyfish,downsmash
+25,ImprobableVapidGermanspitz,Neutral Air
+19,VeneratedPresentKittiwake,Grab
+17,WhoppingComposedCockerspaniel,Up Smash
+25,MajorDefensiveDungenesscrab,Forward Tilt
+3,HopefulNauticalArrowana,4bUbnT1
+25,TornWideAndeancondor,Jab 1
+26,NeighboringPositiveAlligator,U-Air
+22,ArtisticGloomyBullmastiff,Running Grab
+22,SlushyInsignificantAltiplanochinchillamouse,Grab
+22,IgnorantDisguisedBinturong,F-Air
